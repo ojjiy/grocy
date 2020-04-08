@@ -400,7 +400,7 @@ msgid "Track charge cycle of battery %s"
 msgstr "電池 %s の充電サイクルを追跡"
 
 msgid "Track execution of chore %s"
-msgstr "雑用 %s の実行を追跡"
+msgstr "家事 %s の実行を追跡"
 
 msgid "Filter by location"
 msgstr "場所でフィルター"
@@ -415,7 +415,7 @@ msgid "You have to select a product"
 msgstr "製品を選択していません"
 
 msgid "You have to select a chore"
-msgstr "雑用を選択していません"
+msgstr "家事を選択していません"
 
 msgid "You have to select a battery"
 msgstr "電池を選択していません"
@@ -570,10 +570,10 @@ msgid "Unknown"
 msgstr "不明"
 
 msgid "Filter by chore"
-msgstr "雑用でフィルター"
+msgstr "家事でフィルター"
 
 msgid "Chores journal"
-msgstr "雑用記録"
+msgstr "家事記録"
 
 msgid "0 means suggestions for the next charge cycle are disabled"
 msgstr "0にすると次の充電サイクルの提案が無効になります"
@@ -608,11 +608,11 @@ msgstr[0] ""
 
 msgid "%s chore is due to be done"
 msgid_plural "%s chores are due to be done"
-msgstr[0] "%s 個の雑用が予定されています"
+msgstr[0] "%s 個の家事が予定されています"
 
 msgid "%s chore is overdue to be done"
 msgid_plural "%s chores are overdue to be done"
-msgstr[0] "%s 個の雑用が期限切れ"
+msgstr[0] "%s 個の家事が期限切れ"
 
 msgid "%s battery is due to be charged"
 msgid_plural "%s batteries are due to be charged"
@@ -898,10 +898,10 @@ msgid "Undo charge cycle"
 msgstr "充電サイクルを元に戻す"
 
 msgid "Undo chore execution"
-msgstr "雑用の実行を元に戻す"
+msgstr "家事の実行を元に戻す"
 
 msgid "Chore execution successfully undone"
-msgstr "雑用の実行を元に戻しました"
+msgstr "家事の実行を元に戻しました"
 
 msgid "Undo"
 msgstr "元に戻す"
@@ -968,7 +968,7 @@ msgid "Task due"
 msgstr "タスクの期限"
 
 msgid "Chore due"
-msgstr "雑用の期限"
+msgstr "家事の期限"
 
 msgid "Battery charge cycle due"
 msgstr "電池の充電サイクル期限"
@@ -1077,10 +1077,10 @@ msgid "Stock journal for this product"
 msgstr "この製品の在庫記録"
 
 msgid "Show chore details"
-msgstr "雑用の詳細を表示"
+msgstr "家事の詳細を表示"
 
 msgid "Journal for this chore"
-msgstr "この雑用の記録"
+msgstr "この家事の記録"
 
 msgid "Show battery details"
 msgstr "電池の詳細を表示"
@@ -1124,7 +1124,7 @@ msgid "Delete shopping list"
 msgstr "買い物リストを削除"
 
 msgid "Chores settings"
-msgstr "雑用の設定"
+msgstr "家事の設定"
 
 msgid "Batteries settings"
 msgstr "電池の設定"
@@ -1293,7 +1293,7 @@ msgid "A predefined list of values, one per line"
 msgstr ""
 
 msgid "Chores due soon days"
-msgstr "雑用の期限を何日前に知らせるか"
+msgstr "家事の期限を何日前に知らせるか"
 
 msgid "Batteries due to be charged soon days"
 msgstr "電池の交換日を何日前に知らせるか"
@@ -1434,7 +1434,7 @@ msgid ""
 msgstr ""
 
 msgid "This means the next execution of this chore is not scheduled"
-msgstr "この雑用の次の実行がスケジュールされていないことを意味します"
+msgstr "この家事の次の実行がスケジュールされていないことを意味します"
 
 msgid ""
 "This means the next execution of this chore is scheduled on the below "
@@ -1443,20 +1443,20 @@ msgstr ""
 
 msgid ""
 "This means the next execution of this chore will not be assigned to anyone"
-msgstr "この雑用の次の実行が誰にも割り当てられないことを意味します"
+msgstr "この家事の次の実行が誰にも割り当てられないことを意味します"
 
 msgid ""
 "This means the next execution of this chore will be assigned to the one who "
 "executed it least"
-msgstr "この雑用の次の実行が最も行わなかった人に割り当てられることを意味します"
+msgstr "この家事の次の実行が最も行わなかった人に割り当てられることを意味します"
 
 msgid "This means the next execution of this chore will be assigned randomly"
-msgstr "この雑用の次の実行がラムダムに割り当てられることを意味します"
+msgstr "この家事の次の実行がラムダムに割り当てられることを意味します"
 
 msgid ""
 "This means the next execution of this chore will be assigned to the next one"
 " in alphabetical order"
-msgstr "この雑用の次の実行がアルファベット順に割り当てられることを意味します"
+msgstr "この家事の次の実行がアルファベット順に割り当てられることを意味します"
 
 msgid "Assign to"
 msgstr "次の人に割り当てる"
@@ -1478,7 +1478,7 @@ msgid "Filter by assignment"
 msgstr "割り当てでフィルター"
 
 msgid "Consume product on chore execution"
-msgstr "雑用を実行するときに製品を消費"
+msgstr "家事を実行するときに製品を消費"
 
 msgid "Are you sure to delete user field \"%s\"?"
 msgstr "ユーザー フィールド \"%s\" を本当に削除しますか?"

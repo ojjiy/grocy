@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Translation migration from old PHP array files\n"
+"Language-Team: http://www.transifex.com/grocy/grocy/language/en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-05-01T17:59:17+00:00\n"
+"PO-Revision-Date: 2019-05-01T17:59:17+00:00\n"
+"Language: en\n"
+"X-Domain: grocy/stock_transaction_types\n"
+
+msgid "purchase"
+msgstr "購入"
+
+msgid "transfer_to"
+msgstr "移動先"
+
+msgid "transfer_from"
+msgstr "移動元"
+
+msgid "consume"
+msgstr "消費"
+
+msgid "inventory-correction"
+msgstr "ストック数修正"
+
+msgid "product-opened"
+msgstr "開封済み"
+
+msgid "stock-edit-old"
+msgstr "ストック数（修正前）"
+
+msgid "stock-edit-new"
+msgstr "ストック数（修正後）"
+
+msgid "self-production"
+msgstr "Self-production"
