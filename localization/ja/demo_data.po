@@ -1,7 +1,7 @@
 # Translators:
 # EbXpJ6bp <ebxpj6bp@outlook.jp>, 2020
 # 鳥山 陽平 <kagemomiji@gmail.com>, 2020
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -45,7 +45,7 @@ msgstr[0] "パック"
 
 msgid "Glass"
 msgid_plural "Glasses"
-msgstr[0] "眼鏡"
+msgstr[0] "杯"
 
 msgid "Tin"
 msgid_plural "Tins"
@@ -60,7 +60,7 @@ msgid_plural "Bunches"
 msgstr[0] "房"
 
 msgid "Gummy bears"
-msgstr "グミベア"
+msgstr "グミ"
 
 msgid "Crisps"
 msgstr "チップス"
@@ -75,7 +75,7 @@ msgid "Pickles"
 msgstr "ピクルス"
 
 msgid "Gulash soup"
-msgstr "グヤーシュ"
+msgstr "シチュー"
 
 msgid "Yogurt"
 msgstr "ヨーグルト"
@@ -84,7 +84,7 @@ msgid "Cheese"
 msgstr "チーズ"
 
 msgid "Cold cuts"
-msgstr "コールドカット"
+msgstr "スパム"
 
 msgid "Paprika"
 msgstr "パプリカ"
@@ -99,7 +99,7 @@ msgid "Tomato"
 msgstr "トマト"
 
 msgid "Changed towels in the bathroom"
-msgstr "浴室のタオルを変更"
+msgstr "浴室のタオルを交換"
 
 msgid "Cleaned the kitchen floor"
 msgstr "キッチンの床掃除"

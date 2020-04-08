@@ -1,6 +1,6 @@
 # Translators:
 # EbXpJ6bp <ebxpj6bp@outlook.jp>, 2020
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -20,7 +20,7 @@ msgid "no-assignment"
 msgstr "割り当てなし"
 
 msgid "who-least-did-first"
-msgstr "誰が最後にやったか"
+msgstr "一番やってない人優先"
 
 msgid "random"
 msgstr "ランダム"

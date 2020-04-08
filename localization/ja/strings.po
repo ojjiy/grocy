@@ -1,7 +1,7 @@
 # Translators:
 # 鳥山 陽平 <kagemomiji@gmail.com>, 2020
 # EbXpJ6bp <ebxpj6bp@outlook.jp>, 2020
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -22,7 +22,7 @@ msgstr "在庫状況"
 
 msgid "%s product expires"
 msgid_plural "%s products expiring"
-msgstr[0] "%s 個が期限切れ"
+msgstr[0] "%s 種類が期限切れ"
 
 msgid "within the next day"
 msgid_plural "within the next %s days"
@@ -30,11 +30,11 @@ msgstr[0] "(%s 日以内に)"
 
 msgid "%s product is already expired"
 msgid_plural "%s products are already expired"
-msgstr[0] "%s 個がすでに期限切れ"
+msgstr[0] "%s 種類がすでに期限切れ"
 
 msgid "%s product is below defined min. stock amount"
 msgid_plural "%s products are below defined min. stock amount"
-msgstr[0] "%s 個が設定した最小の在庫未満"
+msgstr[0] "%s 種類のストックが不足"
 
 msgid "Product"
 msgstr "製品"
@@ -47,7 +47,7 @@ msgid "Amount"
 msgstr "量"
 
 msgid "Next best before date"
-msgstr "期限"
+msgstr "賞味期限"
 
 msgid "Logout"
 msgstr "ログアウト"
@@ -56,7 +56,7 @@ msgid "Chores overview"
 msgstr "家事の状況"
 
 msgid "Batteries overview"
-msgstr "電池の状況"
+msgstr "充電の状況"
 
 msgid "Purchase"
 msgstr "購入"
@@ -65,16 +65,16 @@ msgid "Consume"
 msgstr "消費"
 
 msgid "Inventory"
-msgstr "在庫"
+msgstr "ストック"
 
 msgid "Shopping list"
-msgstr "買い物リスト"
+msgstr "買う物リスト"
 
 msgid "Chore tracking"
-msgstr "雑用追跡"
+msgstr "家事状況管理"
 
 msgid "Battery tracking"
-msgstr "電池追跡"
+msgstr "充電状況管理"
 
 msgid "Locations"
 msgstr "場所"
@@ -83,22 +83,22 @@ msgid "Stores"
 msgstr "店舗"
 
 msgid "Quantity units"
-msgstr "数量単位"
+msgstr "数の単位"
 
 msgid "Chores"
-msgstr "雑用"
+msgstr "家事"
 
 msgid "Batteries"
-msgstr "電池"
+msgstr "充電池"
 
 msgid "Chore"
-msgstr "雑用"
+msgstr "家事"
 
 msgid "Next estimated tracking"
-msgstr "次の予定追跡"
+msgstr "次回実施予定日"
 
 msgid "Last tracked"
-msgstr "最終追跡"
+msgstr "最終実施日"
 
 msgid "Battery"
 msgstr "電池"
@@ -107,65 +107,64 @@ msgid "Last charged"
 msgstr "最終充電"
 
 msgid "Next planned charge cycle"
-msgstr "次の予定される充電サイクル"
+msgstr "次の充電予定"
 
 msgid "Best before"
-msgstr "期限"
+msgstr "賞味/消費期限"
 
 msgid "OK"
 msgstr "OK"
 
 msgid "Product overview"
-msgstr "製品状況"
+msgstr "商品の状況"
 
 msgid "Stock quantity unit"
-msgstr "在庫の数量単位"
+msgstr "ストックの単位"
 
 msgid "Stock amount"
-msgstr "在庫量"
+msgstr "ストック量"
 
 msgid "Last purchased"
-msgstr "最終購入"
+msgstr "最終購入日"
 
 msgid "Last used"
-msgstr "最終使用"
+msgstr "最終使用日"
 
 msgid "Spoiled"
-msgstr ""
+msgstr "期限切れ"
 
 msgid "Barcode lookup is disabled"
 msgstr "バーコード検索が無効"
 
-msgid ""
-"will be added to the list of barcodes for the selected product on submit"
-msgstr ""
+msgid "will be added to the list of barcodes for the selected product on submit"
+msgstr "確定ボタンで選択された商品のバーコードリストに追加されます"
 
 msgid "New amount"
 msgstr "新しい量"
 
 msgid "Note"
-msgstr "ノート"
+msgstr "メモ"
 
 msgid "Tracked time"
 msgstr "追跡日"
 
 msgid "Chore overview"
-msgstr "雑用の状況"
+msgstr "家事の状況"
 
 msgid "Tracked count"
-msgstr "追跡数"
+msgstr "管理している数"
 
 msgid "Battery overview"
-msgstr "電池の状況"
+msgstr "充電の状況"
 
 msgid "Charge cycles count"
-msgstr "充電サイクル数"
+msgstr "バッテリーの数"
 
 msgid "Create shopping list item"
-msgstr "買い物リストの項目を作成"
+msgstr "買い物リストに追加"
 
 msgid "Edit shopping list item"
-msgstr "買い物リストの項目を編集"
+msgstr "買い物リストを編集"
 
 msgid "Save"
 msgstr "保存"
@@ -180,49 +179,49 @@ msgid "Location"
 msgstr "場所"
 
 msgid "Min. stock amount"
-msgstr "最小の在庫量"
+msgstr "最低限ストックしておく量"
 
 msgid "QU purchase"
-msgstr "購入数量"
+msgstr "購入量"
 
 msgid "QU stock"
-msgstr "保管数量"
+msgstr "保管量"
 
 msgid "QU factor"
-msgstr ""
+msgstr "製造量"
 
 msgid "Description"
 msgstr "説明"
 
 msgid "Create product"
-msgstr "製品を作成"
+msgstr "商品情報を追加"
 
 msgid "Barcode(s)"
 msgstr "バーコード"
 
 msgid "Minimum stock amount"
-msgstr "最小の在庫量"
+msgstr "最低限ストックしておく量"
 
 msgid "Default best before days"
-msgstr "デフォルトの期限日"
+msgstr "デフォルトの賞味/消費期限"
 
 msgid "Quantity unit purchase"
-msgstr "購入の数量単位"
+msgstr "購入単位"
 
 msgid "Quantity unit stock"
-msgstr "保管の数量単位"
+msgstr "保管単位"
 
 msgid "Factor purchase to stock quantity unit"
 msgstr ""
 
 msgid "Create location"
-msgstr "場所を作成"
+msgstr "場所を追加"
 
 msgid "Create store"
-msgstr "店舗を作成"
+msgstr "店舗を追加"
 
 msgid "Create quantity unit"
-msgstr "数量単位を作成"
+msgstr "数量単位を追加"
 
 msgid "Period type"
 msgstr "期限の種類"
@@ -231,19 +230,19 @@ msgid "Period days"
 msgstr "期限日"
 
 msgid "Create chore"
-msgstr "雑用を作成"
+msgstr "家事を追加"
 
 msgid "Used in"
 msgstr "使用場所"
 
 msgid "Create battery"
-msgstr "電池を作成"
+msgstr "バッテリーを追加"
 
 msgid "Edit battery"
-msgstr "電池を編集"
+msgstr "バッテリー情報を編集"
 
 msgid "Edit chore"
-msgstr "雑用を編集"
+msgstr "家事情報を編集"
 
 msgid "Edit quantity unit"
 msgstr "数量単位を編集"
@@ -258,7 +257,7 @@ msgid "Edit store"
 msgstr "店舗を編集"
 
 msgid "Record data"
-msgstr "デーダを記録"
+msgstr "データを記録"
 
 msgid "Manage master data"
 msgstr "マスターデータを管理"
@@ -272,9 +271,7 @@ msgstr "該当なし"
 msgid "Add products that are below defined min. stock amount"
 msgstr "保管数の下限以下の製品を追加する"
 
-msgid ""
-"For purchases this amount of days will be added to today for the best before"
-" date suggestion"
+msgid "For purchases this amount of days will be added to today for the best before date suggestion"
 msgstr ""
 
 msgid "This means 1 %1$s purchased will be converted into %2$s %3$s in stock"
@@ -290,7 +287,7 @@ msgid "Password"
 msgstr "パスワード"
 
 msgid "Invalid credentials, please try again"
-msgstr "資格情報が無効です。もう一度お試しください"
+msgstr "認証情報が不正です。もう一度お試しください"
 
 msgid "Are you sure to delete battery \"%s\"?"
 msgstr "電池\"%s\"を本当に削除しますか?"
@@ -302,31 +299,31 @@ msgid "No"
 msgstr "いいえ"
 
 msgid "Are you sure to delete chore \"%s\"?"
-msgstr "雑用\"%s\"を本当に削除しますか?"
+msgstr "家事\"%s\"を本当に削除しますか?"
 
 msgid "\"%s\" could not be resolved to a product, how do you want to proceed?"
-msgstr "\"%s\" を製品として解決できませんでした、どのように継続しますか?"
+msgstr "\"%s\" を商品として処理できませんでした、どのように対処しますか?"
 
 msgid "Create or assign product"
-msgstr "プロダクトの作成または割り当て"
+msgstr "商品の作成または割り当て"
 
 msgid "Cancel"
 msgstr "キャンセル"
 
 msgid "Add as new product"
-msgstr "新しい製品として追加"
+msgstr "新しい商品として追加"
 
 msgid "Add as barcode to existing product"
-msgstr "既存の製品にバーコードとして追加"
+msgstr "既存の商品のバーコードとして追加"
 
 msgid "Add as new product and prefill barcode"
-msgstr "新しい製品として追加し、バーコードで事前入力する"
+msgstr "新しい商品として追加し、バーコード情報も登録する"
 
 msgid "Are you sure to delete quantity unit \"%s\"?"
 msgstr "数量単位 \"%s\" を本当に削除しますか?"
 
 msgid "Are you sure to delete product \"%s\"?"
-msgstr "製品 \"%s\" を本当に削除しますか?"
+msgstr "商品 \"%s\" を本当に削除しますか?"
 
 msgid "Are you sure to delete location \"%s\"?"
 msgstr "場所 \"%s\" を本当に削除しますか?"

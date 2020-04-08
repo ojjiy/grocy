@@ -1,7 +1,7 @@
 # Translators:
 # EbXpJ6bp <ebxpj6bp@outlook.jp>, 2020
 # Bernd Bestel <bernd@berrnd.de>, 2020
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -21,7 +21,7 @@ msgid "timeago_locale"
 msgstr "ja"
 
 msgid "timeago_nan"
-msgstr "約 NaN 年"
+msgstr "NaN年"
 
 msgid "moment_locale"
 msgstr "ja"

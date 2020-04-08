@@ -1,6 +1,6 @@
 # Translators:
 # EbXpJ6bp <ebxpj6bp@outlook.jp>, 2020
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -20,7 +20,7 @@ msgid "manually"
 msgstr "手動"
 
 msgid "dynamic-regular"
-msgstr "ダイナミックレギュラー"
+msgstr "最終実行日基準"
 
 msgid "daily"
 msgstr "毎日"
